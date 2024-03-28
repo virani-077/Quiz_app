@@ -1,0 +1,16 @@
+.footer {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+/* @media only screen and (max-width: 768px) {
+    .footer {
+        position: absolute;
+        bottom: 0;
+
+    }
+  } */

@@ -58,6 +58,9 @@ function Quiz() {
             <input type="button" value="Next" id="next-button" onClick={changeQuestion}/>
             </>)}
         </div>
+        {/* <div style={{position:'absolute', bottom:0, }}>
+            Footer!
+        </div> */}
     </div>
   )
 }
